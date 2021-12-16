@@ -1,2 +1,2 @@
-# Exemplar-based-Image-Inpainting
-This repository implemented the exemeplar-based method for image inpainting
+# Image Texture in terms of Entropy
+
